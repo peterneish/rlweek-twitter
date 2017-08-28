@@ -28,7 +28,9 @@ rlweek <- readRDS("data/rlweek.rds")
 ```
 
 # Introduction
-An analysis of tweets from Researcher<!-- -->@Lbrary Week 2017. `r nrow(rlweek)`
+An analysis of tweets from Researcher<!-- -->@Lbrary Week 2017. Code is available on [GitHub](https://github.com/peterneish/rlweek-twitter).
+
+`r nrow(rlweek)`
 tweets were collected using the `rtweet` R package:
 
 ```{r search-twitter, eval=FALSE, echo=TRUE}

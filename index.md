@@ -5,7 +5,9 @@ Peter Neish
 
 
 # Introduction
-An analysis of tweets from Researcher<!-- -->@Lbrary Week 2017. 289
+An analysis of tweets from Researcher<!-- -->@Lbrary Week 2017. Code is available on [GitHub](https://github.com/peterneish/rlweek-twitter).
+
+289
 tweets were collected using the `rtweet` R package:
 
 
